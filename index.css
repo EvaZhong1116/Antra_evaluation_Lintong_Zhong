@@ -1,0 +1,33 @@
+.title {
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+
+.inputbox {
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+
+.btn {
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+
+.word-display {
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+
+.counter{
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+
+.hidden{
+    display:none;
+}
