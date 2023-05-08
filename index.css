@@ -2,12 +2,14 @@
     display: flex;
     position: relative;
     justify-content: center;
+    font-family: Arial;    
 }
 
 .inputbox {
     display: flex;
     position: relative;
     justify-content: center;
+    font-family: Arial;
 }
 
 .btn {
@@ -16,18 +18,56 @@
     justify-content: center;
 }
 
+#newGameButton {
+    background-color: #007BFF;
+    color: white;
+    font-family: Arial;
+    padding: 10px 60px;
+    margin-top: 10px;
+
+}
+
+#newGameButton:hover {
+    background-color: #0056B3;
+    transition: 0.7s;
+}
+
+
 .word-display {
     display: flex;
     position: relative;
     justify-content: center;
+    font-family: Arial;
 }
 
 .counter{
     display: flex;
     position: relative;
     justify-content: center;
+    font-family: Arial;
+}
+
+.userInputArea {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    font-family: Arial;
 }
 
 .hidden{
     display:none;
+}
+
+.timer  {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    font-family: Arial;
+}
+
+.timername {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    font-family: Arial;
 }
